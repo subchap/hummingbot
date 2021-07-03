@@ -72,3 +72,4 @@ gateway.env
 .coverage
 /cover/
 coverage.xml
+hummingbot/strategy/hbs_tier_flow/
